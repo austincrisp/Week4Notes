@@ -1,0 +1,30 @@
+﻿body
+{
+    background-color: whitesmoke;
+    color: black;
+    font-family: sans-serif;
+}
+
+li
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.medium
+{
+    background-color: yellow;
+    padding: 10px;
+}
+
+.novice
+{
+    background-color: dodgerblue;
+    padding: 10px;
+}
+
+.expert
+{
+    background-color: orange;
+    padding: 10px;
+}
